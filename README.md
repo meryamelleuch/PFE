@@ -8,7 +8,7 @@ the only requirement to build and run the app from this source is Docker:
   
   
   
-  1. Clone this repo: git clone ssh/http link of every repo linked mentionned below , at the same path for exemple " /home/userpfe"
+1. Clone this repo: git clone ssh/http link of every repo linked mentionned below , at the same path for exemple " /home/userpfe"
   
   2.build and run app using docker-compose cli : docker compose up --build 
   
