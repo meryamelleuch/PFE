@@ -1,5 +1,5 @@
 # PFE
-PFE Project folder that contains 3 repositories , this app runs accros two containers : 
+PFE Project folder that contains 2 repositories , this app runs accros two containers : 
 back : a springboot rest api for the management of trainees from / in the database.
 front : an angular application which calls the api and applies crud and search process on the trainees. 
 
