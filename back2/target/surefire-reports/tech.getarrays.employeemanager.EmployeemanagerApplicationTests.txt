@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tech.getarrays.employeemanager.EmployeemanagerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.359 s - in tech.getarrays.employeemanager.EmployeemanagerApplicationTests
