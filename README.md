@@ -1,5 +1,10 @@
 # PFE
-  Updated 3 minutes ago PFE Project folder that contains 3 repositories , this app runs accros two containers : back : a springboot rest api for the management of trainees from / in the database front : an angular application which calls the api and applies crud and search process on the trainees.  the only requirement to build and run the app from this source is Docker: 
+PFE Project folder that contains 3 repositories , this app runs accros two containers : 
+back : a springboot rest api for the management of trainees from / in the database.
+front : an angular application which calls the api and applies crud and search process on the trainees. 
+
+
+the only requirement to build and run the app from this source is Docker: 
   
   
   
